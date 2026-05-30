@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterparse",
+        "uuid": 3272050,
+        "checksum": "x3a914"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
